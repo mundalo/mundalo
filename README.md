@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMundal1994anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mundal1994&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Mundal1994/Mundal1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
