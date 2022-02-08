@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently student at @HiveHelsinki
+
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mundal1994&show_icons=true&theme=github_dark)
 
