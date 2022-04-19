@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student at HiveHelsinki (https://hive.fi/)
+I'm currently a student at HiveHelsinki (https://hive.fi/)
 
 ## GitHub Stats
 
