@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm currently a student at HiveHelsinki (https://hive.fi/)
+
 I'm currently learning C language and the basis of network and security
 
 ## GitHub Stats
