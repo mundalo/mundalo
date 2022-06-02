@@ -4,6 +4,8 @@ I'm currently a student at HiveHelsinki (https://hive.fi/)
 
 I'm currently learning C language and the basis of network and security
 
+I'm currently working on sorting algorithms
+
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mundal1994&show_icons=true&theme=github_dark)
