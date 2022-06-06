@@ -2,9 +2,9 @@
 
 I'm currently a student at HiveHelsinki (https://hive.fi/)
 
-I'm currently learning C language and the basis of network and security
+I'm learning C language and the basis of network and security
 
-I'm currently working on sorting algorithms and how to best uptimize
+I'm working on sorting algorithms and how to best uptimize
 
 ## GitHub Stats
 
