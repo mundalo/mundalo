@@ -4,7 +4,7 @@ I'm currently a student at HiveHelsinki (https://hive.fi/)
 
 I'm learning C language and the basis of network and security
 
-I'm working on sorting algorithms and how to best uptimize
+I'm working on sorting algorithms
 
 ## GitHub Stats
 
