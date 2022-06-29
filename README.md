@@ -10,7 +10,7 @@ I'm working on sorting algorithms
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mundal1994&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mundal1994&hide=game_of_life&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mundal1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/miriam-m-olesen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
