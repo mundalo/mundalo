@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a student at Hive Helsinki (https://hive.fi/)
+I’m currently a student at Hive Helsinki(https://hive.fi/), a school belonging to the 42 Network
 
 I'm learning C language and the basis of network and security
 
