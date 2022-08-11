@@ -4,7 +4,7 @@ I’m currently a student at Hive Helsinki(https://hive.fi/), a school belonging
 
 I'm learning C language and the basis of network and security
 
-I'm currently working on sorting algorithms and how to best structure and collect data.
+I'm currently working on sorting algorithms and how to best structure and collect various amount of data.
 
 ## GitHub Stats
 
