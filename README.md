@@ -10,6 +10,7 @@ Checkout my LinkedIn for CV and/or contact information
 
 <a href="https://www.linkedin.com/in/miriam-m-olesen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
+
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mundal1994&show_icons=true&theme=github_dark)
