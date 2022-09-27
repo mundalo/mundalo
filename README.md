@@ -6,7 +6,7 @@ I'm learning C language, React and the basis of network and security
 
 I'm currently working on sorting algorithms and how to best structure and collect various amount of data.
 
-Checkout my LinkedIn for CV and/or contact information: https://www.linkedin.com/in/miriam-m-olesen/
+Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
 
 ## GitHub Stats
