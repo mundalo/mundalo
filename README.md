@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently a student at Hive Helsinki(https://hive.fi/), a school belonging to the 42 Network, and I'm also doing the FullStack Open course, designed by the University of Helsinki and the software company Houston Inc.
+I’m currently a student at @hivehelsinki, a school belonging to the 42 Network, and I'm also doing the FullStack Open course, designed by the University of Helsinki and the software company Houston Inc.
 
 I'm learning C language, React and the basis of network and security
 
