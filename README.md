@@ -2,7 +2,7 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network, and I'm also doing the FullStack Open course, designed by the University of Helsinki and the software company Houston Inc.
 
-I'm learning C language, React and the basis of network and security
+I'm learning C language, docker, React and the basis of network and security
 
 I'm currently working on sorting algorithms and how to best structure and collect various amount of data.
 
