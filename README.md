@@ -2,10 +2,12 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network, and I'm also doing the FullStack Open course, designed by the University of Helsinki and the software company Houston Inc.
 
-Hive: C language, docker, basis of network and security
+Hive: C language, C++, python, docker, basis of network and security
 - I'm currently working on sorting algorithms and how to best structure and collect various amount of data.
 
 FullStack Open: React, modern JavaScript based web programming, Node.js
+
+CS50ai: python, artificial intelligense
 
 Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
