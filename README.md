@@ -2,8 +2,10 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network, and I'm also doing the FullStack Open course, designed by the University of Helsinki and the software company Houston Inc.
 
-Hive: C language, C++, python, docker, basis of network and security
-- I'm currently working on sorting algorithms and how to best structure and collect various amount of data.
+I'm currently taking the cs50ai course and working on C++ projects from Hive. Afterwards I'm planning on doing Hive's docker project and finishing the FullStack Open course.
+
+Hive: C language, C++, python, docker, basis of network and security.
+  At Hive I focused on sorting algorithms and how to best structure and collect various amount of data.
 
 FullStack Open: React, modern JavaScript based web programming, Node.js
 
