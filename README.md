@@ -2,7 +2,7 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network.
 
-<h2>🌱 I'm currently working on:</h2>
+## I'm currently working on
 
 <h3>Projects</h3>
   - PHP Piscine: C++ focused projects by Hive Helsinki
@@ -19,7 +19,7 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 <div style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
-<img  alt="C++" width="40px"src="https://camo.githubusercontent.com/42b615d36d33a55f1d16b99c7822a98e4b5565b8bd5282f233dfa819252b2c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d43253262253262266c6f676f436f6c6f723d363239364343" style="padding-right:20px;">
+<img  alt="C++" width="60px"src="https://camo.githubusercontent.com/42b615d36d33a55f1d16b99c7822a98e4b5565b8bd5282f233dfa819252b2c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d43253262253262266c6f676f436f6c6f723d363239364343" style="padding-right:20px;">
 <img  alt="Python" width="40px"src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" style="padding-right:20px;">
 <img  alt="HTML" width="40px"src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" style="padding-right:20px;">
  <img  alt="JavaScript" width="40px"src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" style="padding-right:20px;">
