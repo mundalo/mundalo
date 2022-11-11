@@ -5,15 +5,15 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 ## I'm currently working on
 
 <h3>Projects</h3>
-      - PHP Piscine: C++ focused projects by Hive Helsinki
+- PHP Piscine: C++ focused projects by Hive Helsinki
       
-      - docker by Hive Helsinki
+- docker by Hive Helsinki
 
 <h3>Courses</h3>
-      - <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
+- <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
       
-      - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
-        - React, modern JavaScript based web programming, Node.js
+- <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
+  - React, modern JavaScript based web programming, Node.js
 
 Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
