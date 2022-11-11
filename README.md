@@ -6,7 +6,7 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 
 <h3>Projects</h3>
 
-- PHP Piscine: C++ focused projects by Hive Helsinki
+- <a href="https://github.com/Mundal1994/42-CPP">PHP Piscine: C++</a> focused projects by Hive Helsinki
       
 - docker by Hive Helsinki
 
