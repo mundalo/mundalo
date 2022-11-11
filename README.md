@@ -6,10 +6,12 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 
 <h3>Projects</h3>
       - PHP Piscine: C++ focused projects by Hive Helsinki
+      
       - docker by Hive Helsinki
 
 <h3>Courses</h3>
       - <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
+      
       - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
         - React, modern JavaScript based web programming, Node.js
 
