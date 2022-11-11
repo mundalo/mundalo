@@ -5,13 +5,13 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 ## I'm currently working on
 
 <h3>Projects</h3>
-  - PHP Piscine: C++ focused projects by Hive Helsinki
-  - docker by Hive Helsinki
+      - PHP Piscine: C++ focused projects by Hive Helsinki
+      - docker by Hive Helsinki
 
 <h3>Courses</h3>
-  - <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
-  - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
-    - React, modern JavaScript based web programming, Node.js
+      - <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
+      - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
+        - React, modern JavaScript based web programming, Node.js
 
 Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
@@ -19,7 +19,7 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 <div style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
-<img  alt="C++" width="40px"src="https://www.google.com/search?q=c%2B%2B&tbm=isch&chips=q:c%2B%2B,online_chips:logo:pfPLReCyefk%3D&hl=da&sa=X&ved=2ahUKEwjDvuXxlaf7AhUKjosKHSm6DZkQ4lYoAXoECAEQJg&biw=763&bih=683#imgrc=bPjmn2mSl_p1DM" style="padding-right:20px;">
+<img  alt="C++" width="40px"src="" style="padding-right:20px;">
 <img  alt="Python" width="40px"src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" style="padding-right:20px;">
 <img  alt="HTML" width="40px"src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" style="padding-right:20px;">
  <img  alt="JavaScript" width="40px"src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" style="padding-right:20px;">
