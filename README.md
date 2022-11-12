@@ -22,6 +22,7 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 ## Languages
 
 <div style="display: inline_block">
+      
 - C language, C++, Python, HTML, JavaScript, React, CSS
 <!--
       <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
@@ -37,6 +38,7 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 ## Tech
 <div style="display: inline_block">
+      
 - Git, Visual Studio Code, Terminal
 <!--
 <img  alt="Git" width="40px"src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667" style="padding-right:20px;"> 
