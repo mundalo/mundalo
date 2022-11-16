@@ -4,7 +4,7 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 
 I'm currently looking for an approx. 6 months trainee/junior position to finalize my studies at Hive Helsinki.
 - I would hope to get to work with either C, C++ or python.
-- Some subjects I have found especially interesting: algorithms, data structures, artificial intelligence and embedded systems.
+- Some subjects I have found especially interesting: algorithms, data structures, machine learning and embedded systems.
 
 Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
