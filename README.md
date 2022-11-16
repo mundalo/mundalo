@@ -2,6 +2,12 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network.
 
+I'm currently looking for an approx. 6 months trainee/junior position to finalize my studies at Hive Helsinki.
+- I would hope to get to work with either C, C++ or python.
+- Some subjects I have found especially interesting: algorithms, data structures, artificial intelligence and embedded systems.
+
+Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
+
 ## I'm currently working on
 
 <h3>Projects</h3>
@@ -16,8 +22,6 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
       
 - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
   - React, modern JavaScript based web programming, Node.js
-
-Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
 
 ## Languages
 
