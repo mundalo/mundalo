@@ -43,7 +43,7 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 ## Tech
 <div style="display: inline_block">
       
-- Git, Visual Studio Code, Terminal
+- Git, Visual Studio Code, Terminal, Linux
 <!--
 <img  alt="Git" width="40px"src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667" style="padding-right:20px;"> 
 <img alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" style="padding-right:20px;">
