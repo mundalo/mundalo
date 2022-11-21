@@ -18,8 +18,6 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 <h3>Courses</h3>
 
-- <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
-      
 - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
   - React, modern JavaScript based web programming, Node.js
 
@@ -51,6 +49,10 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 <img alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:20px;">
 -->
 </div>
+
+## Finished Courses
+
+- <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
 
 
 ## GitHub Stats
