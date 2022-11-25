@@ -2,7 +2,7 @@
 
 I’m currently a student at @hivehelsinki, a school belonging to the 42 Network.
 
-I'm currently looking for an approx. 6 months trainee/junior position to finalize my studies at Hive Helsinki.
+I'm currently looking for a trainee/junior software developer position.
 - I would hope to get to work with either C, C++ or python.
 - Some subjects I have found especially interesting: algorithms, data structures, machine learning and embedded systems.
 
