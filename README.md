@@ -14,11 +14,11 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 - <a href="https://github.com/Mundal1994/42-CPP">PHP Piscine: C++</a> focused projects by Hive Helsinki
       
-- <a hred="https://github.com/Mundal1994/42-docker">docker</a> by Hive Helsinki
+- <a href="https://github.com/Mundal1994/42-docker">docker</a> by Hive Helsinki
 
 <h3>Courses</h3>
 
-- < a href="https://github.com/Mundal1994/EmbeddedSystems-ShapeTheWorld">'Embedded Systems - Shape The World'</a> course by UTAustinX institution at edx.org
+- <a href="https://github.com/Mundal1994/EmbeddedSystems-ShapeTheWorld">'Embedded Systems - Shape The World'</a> course by UTAustinX institution at edx.org
 
 - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
   - React, modern JavaScript based web programming, Node.js
