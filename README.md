@@ -54,9 +54,9 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 ## Finished Courses
 
-- <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>
+- <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>, Dec 2022
 
-- <a href="https://github.com/Mundal1994/EmbeddedSystems_Arm">Embedded systems essentials with Arm</a>
+- <a href="https://github.com/Mundal1994/EmbeddedSystems_Arm">Embedded systems essentials with Arm</a>, Nov 2022
 
 
 ## GitHub Stats
