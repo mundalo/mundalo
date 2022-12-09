@@ -18,8 +18,6 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 <h3>Courses</h3>
 
-- <a href="https://github.com/Mundal1994/EmbeddedSystems-ShapeTheWorld">Embedded Systems - Shape The World</a> course by UTAustinX institution at edx.org
-
 - <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
   - React, modern JavaScript based web programming, Node.js
 
@@ -53,6 +51,8 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 </div>
 
 ## Finished Courses
+
+- <a href="https://github.com/Mundal1994/EmbeddedSystems-ShapeTheWorld">Embedded Systems - Shape The World</a> course by UTAustinX institution at edx.org, Dec 2022
 
 - <a href="https://github.com/Mundal1994/CS50ai">CS50ai - Introduction to artificial intelligence with Python</a>, Dec 2022
 
