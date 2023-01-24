@@ -12,8 +12,6 @@ Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> 
 
 <h3>Projects</h3>
 
-- <a href="https://github.com/Mundal1994/42-CPP">PHP Piscine: C++</a> focused projects by Hive Helsinki
-      
 - <a href="https://github.com/Mundal1994/42-docker">docker</a> by Hive Helsinki
 
 <h3>Courses</h3>
