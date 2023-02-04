@@ -4,8 +4,6 @@ I’m currently a student at @hivehelsinki, a school belonging to the 42 Network
 
 - Area of interest: algorithms, data structures, machine learning, embedded systems and Android development.
 
-Checkout my <a href="https://www.linkedin.com/in/miriam-m-olesen/">LinkedIn</a> for CV and/or contact information
-
 ## I'm currently working on
 
 <h3>Projects</h3>
