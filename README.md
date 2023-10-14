@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-I’m currently a student at @hivehelsinki, a school belonging to the 42 Network.
+Alumni at @hivehelsinki, a school belonging to the 42 Network.
 
-- Area of interest: algorithms, data structures, machine learning, embedded systems and Android development.
+- Area of interest: algorithms, data structures and machine learning.
 
 ## I'm currently working on
 
-<h3>Projects</h3>
-
-- <a href="https://github.com/Mundal1994/42-docker">docker</a> by Hive Helsinki
-
-<h3>Courses</h3>
-
-- <a href="https://github.com/Mundal1994/FullStackOpen">FullStack Open course</a>, designed by the University of Helsinki
-  - React, modern JavaScript based web programming, Node.js
+Improving my C++ skills through project providede by Hive Helsinki.
 
 ## Languages
 
