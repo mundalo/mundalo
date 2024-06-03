@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Alumni at @hivehelsinki.
-
 - Area of interest: algorithms, data structures and machine learning.
 
 ## I'm currently working on
