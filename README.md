@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Alumni at @hivehelsinki, a school belonging to the 42 Network.
+Alumni at @hivehelsinki.
 
 - Area of interest: algorithms, data structures and machine learning.
 
 ## I'm currently working on
 
-Improving my C++ skills through project providede by Hive Helsinki.
+Bachelor in Information Technology
 
 ## Languages
 
